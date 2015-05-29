@@ -13,8 +13,8 @@
       "web": "http://www.akei.com"
     }
   ],
-  "dependencies": {
-    "http://www.phantomjs.org/": "1.7"
+  "peerDependencies": {
+    "phantomjs": ">=1.7.0 <2.0.0"
   },
   "bugs": {
     "url": "https://github.com/n1k0/casperjs/issues"
